@@ -4,12 +4,12 @@ int main()
 {
     int a, b, c, d, e;
     printf("Enter three numbers: ");
-    scanf("%d  %d  %d", &a, &b, &c);
+    scanf("%d%d%d", &a, &b, &c);
     printf("%d     %d     %d", a, b, c);
     d = a + b + c;
     printf("\n%d+%d+%d=%d", a, b, c, d);
     printf("\nEnter three numbers: ");
-    scanf("%d  %d  %d", &a, &b, &c);
+    scanf("%d%d%d", &a, &b, &c);
     printf("%d     %d     %d", a, b, c);
     d = a + b + c;
     printf("\n%d+%d+%d=%d", a, b, c, d);
@@ -17,7 +17,7 @@ int main()
     printf("\n%d*%d*%d=%d", a, b, c, e);
     float f;
     printf("\nEnter three numbers: ");
-    scanf("%d  %d  %d", &a, &b, &c);
+    scanf("%d%d%d", &a, &b, &c);
     printf("%d     %d     %d", a, b, c);
     d = a + b + c;
     printf("\n%d+%d+%d=%d", a, b, c, d);
