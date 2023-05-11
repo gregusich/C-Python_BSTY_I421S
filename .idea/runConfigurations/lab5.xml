@@ -1,18 +1,19 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="lab4" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+  <configuration default="false" name="lab5" type="PythonConfigurationType" factoryName="Python" singleton="false">
     <module name="C_Python_BSTY_I421S" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
     <envs>
       <env name="PYTHONUNBUFFERED" value="1" />
     </envs>
-    <option name="SDK_HOME" value="C:\Users\gregusich\CLionProjects\C-Python_BSTY_I421S\venv\Scripts\python.exe" />
-    <option name="SDK_NAME" value="Python 3.11 (C-Python_BSTY_I421S)" />
+    <option name="SDK_HOME" value="C:\Users\gregory\PycharmProjects\CPP_BSTY_I421S\venv\Scripts\python.exe" />
+    <option name="SDK_NAME" value="Python 3.11 (CPP_BSTY_I421S)" />
     <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     <option name="IS_MODULE_SDK" value="false" />
     <option name="ADD_CONTENT_ROOTS" value="true" />
     <option name="ADD_SOURCE_ROOTS" value="true" />
-    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab4.py" />
+    <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lab5.py" />
     <option name="PARAMETERS" value="" />
     <option name="SHOW_COMMAND_LINE" value="false" />
     <option name="EMULATE_TERMINAL" value="false" />
